@@ -27,7 +27,7 @@ fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
+# mean(): Mean value
+# std(): Standard deviation
 
-The variables has been averaged for each combination of Subject-Activity
+# The variables has been averaged for each combination of Subject-Activity
